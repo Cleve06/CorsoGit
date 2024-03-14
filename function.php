@@ -15,8 +15,17 @@ function sottrazione (n1, n2){
 
 /*molteplicazione*/
 
-function molteplicazione* (n1, n2){
+function molteplicazione(n1, n2){
     return n1*n2; 
+}
+
+/*diviisone2*/
+
+function diviisone2 (n1, n2){
+    if( n2 !== 0){
+    return n1*n2; 
+    }else{
+         return "Error";
 }
 
 ?>
